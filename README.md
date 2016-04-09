@@ -23,7 +23,7 @@ Client Library Setting(OpenLayers, jQuery, jQuery Mobile, D3, proj4, bootstrap, 
 # Libirary Saved Location
   - bower install : ./public/bower_compments/*
   - bower-installer 
-    > JS : static/js
-    > CSS : static/css
-    > map : static/js
-    > worr : static/fonts
+    - JS : static/js
+    - CSS : static/css
+    - map : static/js
+    - worr : static/fonts
