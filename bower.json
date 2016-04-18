@@ -49,6 +49,11 @@
         "public/bower_components/ladda/dist/ladda.min.js",
         "public/bower_components/ladda/dist/ladda-themeless.min.css",
         "public/bower_components/ladda/dist/spin.min.js"
+      ],
+      "bootstrap-select": [
+	"public/bower_components/bootstrap-select/dist/js/bootstrap-select.min.js",
+	"public/bower_components/bootstrap-select/dist/js/bootstrap-select.js.map",
+	"public/bower_components/bootstrap-select/dist/css/bootstrap-select.min.css"
       ]
     }
   },
@@ -59,6 +64,7 @@
     "jquery-mobile": "1.4.5",
     "proj4": "2.3.14",
     "bootstrap": "3.3.6",
-    "ladda": "ladda-boostrap-hakimel#1.0.0"
+    "ladda": "ladda-boostrap-hakimel#1.0.0",
+    "bootstrap-select": "^1.10.0"
   }
 }
